@@ -54,7 +54,7 @@ Where:
 
 ### 1. Temperature profile over time for validation of UDF
 
-
+![Temperature profile over time for validation of UDF](udf.jpeg)
 Tested my UDF with a convective heat transfer coefficient of 5 W/m^2  and found an average error of 
 
 
