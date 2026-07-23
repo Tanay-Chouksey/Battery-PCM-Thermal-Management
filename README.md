@@ -6,13 +6,13 @@ A numerical study simulating heat absorption and melting kinetics of PCMs (in th
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains simulation scripts, mesh setups, and thermal analysis files evaluating the cooling efficiency of PCM under transient heat loads. The project models latent heat transfer during phase transitions to prevent peak temperature spikes.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Solver / Software:** ANSYS Fluent
 * **Methodology:** Enthalpy-Porosity Method for Solid-Liquid Phase Change
@@ -21,7 +21,7 @@ This repository contains simulation scripts, mesh setups, and thermal analysis f
 
 ---
 
-## 📊 Key Governing Equations
+##  Key Governing Equations
 
 The phase change process is modeled using the energy equation with sensible and latent heat transfer:
 
@@ -32,7 +32,7 @@ Where:
 * $\gamma$ = Liquid fraction ($0 \le \gamma \le 1$)
 * $L$ = Latent heat of fusion ($J/kg$)
 
-## 🔋 Battery Heat Generation Model (Bernardi Equation)
+##  Battery Heat Generation Model (Bernardi Equation)
 
 The total heat generation rate inside the lithium-ion cell during operation is modeled using the **Bernardi Heat Generation Equation**:
 
@@ -49,6 +49,13 @@ Where:
 
 
 ---
+## Solver Settings and Boundary Conditions
+
+### Solidification and Melting Model
+For the given PCM Ansys inbuilt solidification and melting model was used with mushy zone constant taken as 100000.
+
+### Energy Model
+As for propogation of heat inside the cell, Energy model in Ansys Fluent was used.
 
 ## 📈 Simulation Results
 
