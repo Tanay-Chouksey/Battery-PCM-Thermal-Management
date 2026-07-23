@@ -73,3 +73,7 @@ Here are the temperature and Volume fraction animations for the PCM Jacket of OM
   <img src="2d-vert.gif" width="45%">
   <img src="2danim.gif" width="45%">
 </p>
+
+### Effectiveness of PCM cooling
+
+Reported average facet  temperature of the cell surface in contact with PCM was 314 K, which was a direct increase of 4 K from that of natual convection.
