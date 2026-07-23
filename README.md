@@ -60,5 +60,9 @@ Tested my UDF with a convective heat transfer coefficient of 5 W/m^2  and found 
 
 ### 2. PCM Liquid Fraction Evolution
 
----
+Here are the temperature and Volume fraction animations for the PCM Jacket of OM-32
 
+<p align="center">
+  <img src="ezgif.com-speed.gif" width="45%">
+  <img src="yzsolid.gif" width="45%">
+</p>
