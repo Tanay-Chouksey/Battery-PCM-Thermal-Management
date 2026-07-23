@@ -2,13 +2,8 @@
 Modeled and simulated the transient melting process of a PCM using the Enthalpy-Porosity formulation in ANSYS Fluent to analyze latent heat energy storage. 
 # Thermal Management of Batteries Using Phase Change Materials (PCM)
 
-A numerical study simulating heat absorption and melting kinetics of PCMs (in this case OM-46 and OM-34 organic paraffin PCMs) integrated with cooling sinks.
+A numerical study simulating heat absorption and melting kinetics of PCMs (in this case OM-37 organic paraffin PCM).
 
----
-
-##  Project Overview
-
-This repository contains simulation scripts, mesh setups, and thermal analysis files evaluating the cooling efficiency of PCM under transient heat loads. The project models latent heat transfer during phase transitions to prevent peak temperature spikes.
 
 ---
 
@@ -57,6 +52,7 @@ For the given PCM Ansys inbuilt solidification and melting model was used with m
 ### Energy Model
 As for propogation of heat inside the cell, Energy model in Ansys Fluent was used.
 
+---
 ## 📈 Simulation Results
 
 ### 1. Temperature profile over time for validation of UDF
