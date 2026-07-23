@@ -66,3 +66,10 @@ Here are the temperature and Volume fraction animations for the PCM Jacket of OM
   <img src="ezgif.com-speed.gif" width="45%">
   <img src="yzsolid.gif" width="45%">
 </p>
+
+### The same can be seen in 2D volume fraction animations
+
+<p align="center">
+  <img src="2d-vert.gif" width="45%">
+  <img src="2danim.gif" width="45%">
+</p>
